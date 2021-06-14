@@ -1,0 +1,28 @@
+{
+  "name": "lo-fi-discord-cafe",
+  "version": "1.0.0",
+  "description": "lo-fi broadcasting bot in a discord voice channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyAyushh/lo-fi-discord-cafe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyAyushh/lo-fi-discord-cafe/issues"
+  },
+  "homepage": "https://github.com/heyAyushh/lo-fi-discord-cafe#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "lodash": "^4.17.21",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}

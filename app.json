@@ -1,0 +1,28 @@
+{
+  "name": "lo-fi cafe discord bot",
+  "description": "A bot that broadcasts lofi music randomly to a select discord voice channel.",
+  "repository": "https://github.com/heyAyushh/lo-fi-discord-cafe",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "env": {
+    "DISCORD_BOT_TOKEN": {
+      "description": "Your Discord Bot token here",
+      "required": true
+    },
+    "DISCORD_GUILD_ID": {
+      "description": "Your Discord server id here",
+      "required": true
+    },
+    "DISCORD_CHANNEL_NAME": {
+      "description": "Voice channel name of lofi cafe",
+      "required": true
+    },
+    "VOICE_URLS": {
+      "description": "comma seperated youtube video urls",
+      "required": true
+    }
+  },
+  "keywords": [
+    "node",
+    "discord"
+  ]
+}
