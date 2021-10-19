@@ -10,4 +10,4 @@ lo-fi broadcasting bot in a discord voice channel.
 - Start the server locally
  ```npm run start```
 
-## Read the Blog  
+## [Read the Blog](https://dev.to/heyay/build-a-lo-fi-cafe-for-your-discord-server-in-5-minutes-1e4)
